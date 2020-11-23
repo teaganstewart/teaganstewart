@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Teagan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaganstewart)](https://github.com/anuraghazra/github-readme-stats)
+[![Teagan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaganstewart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Teagan's github stats](https://github-readme-stats.vercel.app/api?username=teaganstewart&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
