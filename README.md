@@ -1,11 +1,14 @@
-### Hello! 
+### Hello! Welcome to my Github :)
 This is the home of some of my personal and university coding projects. <br> <br>
 
-After recently graduating from Victoria University of Wellington, I am spending my free time working on gaining experience with a variety of coding languages.
+After recently graduating from Victoria University of Wellington, I am spending my free time working on gaining experience with a variety of coding languages. Currently, I am working on the 100 Day Euler Project Challenge with the freeCodeCamp, where we produce solutions to the first 100 Euler Project problems. Through this I am learning C# and progressing on C, C++ and JavaScript. <br>
 
+In the future, when I have a bit more knowledge of C++, I hope to recreate Tetris and other similar games. I also want to use my knowledge of JavaScript, HTML and CSS to create a web application, so any ideas would be appreciated! <br>
+
+You can contact me through my LinkedIn for any business or personal requests. - https://www.linkedin.com/in/teagan-stewart-7675421bb/ 
+
+[![Teagan's github stats](https://github-readme-stats.vercel.app/api?username=teaganstewart&layout=compact&theme=jolly&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Teagan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaganstewart&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Teagan's github stats](https://github-readme-stats.vercel.app/api?username=teaganstewart&layout=compact&theme=jolly&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **teaganstewart/teaganstewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
