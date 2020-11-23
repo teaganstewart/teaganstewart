@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hello! 
+This is the home of some of my personal and university coding projects. <br> <br>
 
-[![Teagan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaganstewart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+After recently graduating from Victoria University of Wellington, I am spending my free time working on gaining experience with a variety of coding languages.
 
-<!-- [![Teagan's github stats](https://github-readme-stats.vercel.app/api?username=teaganstewart&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Teagan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaganstewart&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Teagan's github stats](https://github-readme-stats.vercel.app/api?username=teaganstewart&layout=compact&theme=jolly&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **teaganstewart/teaganstewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
