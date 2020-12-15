@@ -7,7 +7,6 @@ In the future, when I have a bit more knowledge of C++, I hope to recreate Tetri
 
 You can contact me through my LinkedIn for any business or personal requests. - https://www.linkedin.com/in/teagan-stewart-7675421bb/ 
 
-[![Teagan's github stats](https://github-readme-stats.vercel.app/api?username=teaganstewart&layout=compact&theme=jolly&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Teagan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaganstewart&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
