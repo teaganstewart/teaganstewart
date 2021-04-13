@@ -3,7 +3,7 @@ This is the home of some of my personal and university coding projects. <br> <br
 
 After recently graduating from Victoria University of Wellington, I am spending my free time working on gaining experience with a variety of coding languages. Currently, I am working on the 100 Day Euler Project Challenge with the freeCodeCamp, where we produce solutions to the first 100 Euler Project problems. Through this I am learning C# and progressing on C, C++ and JavaScript. <br>
 
-In the future, when I have a bit more knowledge of C++, I hope to recreate Tetris and other similar games. I also want to use my knowledge of JavaScript, HTML and CSS to create a web application, so any ideas would be appreciated! <br>
+I am currently trying to make a web version of a chess game, so I am improving my HTML and CSS skills. My aim is to make a good, responsive web design and code my attempt at a simple chess API.<br>
 
 You can contact me through my LinkedIn for any business or personal requests. - https://www.linkedin.com/in/teagan-stewart-7675421bb/ 
 
