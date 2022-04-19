@@ -1,9 +1,9 @@
 ### Hello! Welcome to my Github :)
-This is the home of some of my personal and university coding projects. <br> <br>
+This is the home of some of my personal and university coding projects. <br> 
 
-After recently graduating from Victoria University of Wellington, I am spending my free time working on gaining experience with a variety of coding languages. Currently, I am working on the 100 Day Euler Project Challenge with the freeCodeCamp, where we produce solutions to the first 100 Euler Project problems. Through this I am learning C# and progressing on C, C++ and JavaScript. <br>
+Currently working as a datal processor, I am spending my free time continuing to practice my programming skills. Currently, I am making a text based chess program using JavaScript and hope to continue developing it into a GUI using a framework (probably react). I mainly work with JavaScript, but have previously worked a lot with C#, Java, Python, HTML and CSS.<br>
 
-I am currently trying to make a web version of a chess game, so I am improving my HTML and CSS skills. My aim is to make a good, responsive web design and code my attempt at a simple chess API.<br>
+I enjoy programming as I enjoy creating products that I am proud of, and am always excited for the end product. I also enjoy the problem solving aspect of trying to find out why a big isn't working then trying to fix it until it works as expected. Finding a bug and producing high quality work motivates me to continue. <br>
 
 You can contact me through my LinkedIn for any business or personal requests. - https://www.linkedin.com/in/teagan-stewart-7675421bb/ 
 
